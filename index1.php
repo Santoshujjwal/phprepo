@@ -1,4 +1,4 @@
 <?php
 
-echo "16thof oct 10 oclock"
+echo "16thof oct 10:15am oclock"
 ?>
