@@ -1,4 +1,10 @@
-<?php
+<html>
+<head>
+<title> PHP TEST </title>
+</head>
+<body>
 
-echo "16thof oct 10:15amllkfjdlkfjdklsjflkdsjfkldsjfkldsjlf oclock"
-?>
+<p>Hello World</p>
+</body>
+</html>
+
